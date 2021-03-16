@@ -1,2 +1,12 @@
 Personal Notes:
   do not write npc assign --set [filename].dsc, use the functions in the file!
+  
+Commands to Keep In Mind:
+  walk, follow, teleport, equip (for after player defeats dungeon to give first armour directly), health, spawn, inventory, lookclose, pause/resume (navigation), actionbar,
+  advancement, title, modifyblock
+  
+» Use to open a chest inventory, at a location. (loot after success, chests can be in a seperate bunker somewhere)
+- inventory open d:<context.location>
+
+» Use to change the range and make the NPC more realistic
+- lookclose true range:10 realistic
