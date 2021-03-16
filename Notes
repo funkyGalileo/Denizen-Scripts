@@ -1,5 +1,7 @@
 Personal Notes:
   do not write npc assign --set [filename].dsc, use the functions in the file!
+  Instead of using chat triggers (which aren't reliable for some reaosn), switching to a system where the player will be given 2 sticks with 2 different IDs and data
+    I will then check if they right click the air with either one (one labelled stick for Yes, one for No)
   
 Commands to Keep In Mind:
   walk, follow, teleport, equip (for after player defeats dungeon to give first armour directly), health, spawn, inventory, lookclose, pause/resume (navigation), actionbar,
