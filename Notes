@@ -12,3 +12,6 @@ Commands to Keep In Mind:
 
 » Use to change the range and make the NPC more realistic
 - lookclose true range:10 realistic
+
+Instead of typing in raw coordinates, use tags:
+  https://guide.denizenscript.com/guides/troubleshooting/common-mistakes.html#id25
