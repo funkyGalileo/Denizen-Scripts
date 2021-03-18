@@ -18,3 +18,6 @@ Instead of typing in raw coordinates, use tags:
   
 Noting Locations:
 /ex note <player.location.below> as:exampleNote
+  - not sure if I can use a command to keep track of all locations noted, so I will keep track here
+      - glowShroom1 to glowShroom8
+      - one sprce log location
