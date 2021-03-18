@@ -15,3 +15,6 @@ Commands to Keep In Mind:
 
 Instead of typing in raw coordinates, use tags:
   https://guide.denizenscript.com/guides/troubleshooting/common-mistakes.html#id25
+  
+Noting Locations:
+/ex note <player.location.below> as:exampleNote
